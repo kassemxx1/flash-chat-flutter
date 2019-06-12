@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918737547711",
+    "firebase_url": "https://flash-chat-82c21.firebaseio.com",
+    "project_id": "flash-chat-82c21",
+    "storage_bucket": "flash-chat-82c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918737547711:android:2ff8f1b353c50cc8",
+        "android_client_info": {
+          "package_name": "co.kassem.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918737547711-uicdpl97ap36v36qo2f6h81o1g3aihtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcUzdDDeju68aomdwENQ0QHomVRUhSQgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918737547711-uicdpl97ap36v36qo2f6h81o1g3aihtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
